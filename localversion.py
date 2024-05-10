@@ -1,4 +1,3 @@
-
 #打开邮箱
 outlook = win32com.client.Dispatch("Outlook.Application").GetNamespace("MAPI")
 #访问outlook的收件箱
