@@ -18,5 +18,8 @@ README
 
 如果您遇到了问题，可以添加微信公众号：码点东西，由于精力有限，不能回答所有问题。敬请谅解
 
+<div>
+  <img src="https://github.com/CherLotte/EmailboxMsg/assets/47664959/4045518c-3706-4fd8-be37-bfa2b8882bc2" height="200">
+</div>
 
    
