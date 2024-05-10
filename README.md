@@ -1,2 +1,9 @@
-# EmailboxMsg
-A tool to get a summary of Emailbox
+前言
+
+
+🍉功能
+获取邮箱数据服务器
+本地登陆✅
+网页登陆✅
+导出数据
+批量导出数据✅
