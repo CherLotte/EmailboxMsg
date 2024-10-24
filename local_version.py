@@ -24,3 +24,15 @@ messages = inbox.Items
 # olFolderSyncIssues: 14 - 同步问题
 # olPublicFoldersRoot: 18 - 公共文件夹根目录
 # olFolderRssFeeds: 25 - RSS 源
+
+
+# 访问本地缓存文件
+for folder in outlook.Folders:
+    if folder.Name == "your file folder":
+        INBOX = folder.Folders("your file folder name")
+        for mail in INBOX.Items:
+            try:
+                print(str(mail.ReceivedTime))
+            except Exception as e:
+                    #print('Failed to load:', e,i)
+                continue
